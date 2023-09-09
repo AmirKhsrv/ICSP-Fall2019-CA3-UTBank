@@ -45,5 +45,3 @@ In this computer exercise we are asked to implement a simple banking system. In 
     ```
     exit
     ```
-
-Personal website: https://hesamasad.github.io
