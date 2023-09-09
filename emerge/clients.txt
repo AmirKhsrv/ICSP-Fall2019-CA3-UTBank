@@ -1,0 +1,46 @@
+username--> amir
+       password : 123
+       phone_number : 09220813087
+       ID : 1578131400
+       balance : 4000
+       transactions_count : 3
+       transactions_list--> 
+		partner :		amount :		type :
+		admin			10000			deposit
+		maman			5000			send
+		baba			1000			send
+--------------------------------------------------------------------------
+username--> baba
+       password : 123
+       phone_number : 09123456789
+       ID : 1578131499
+       balance : 21000
+       transactions_count : 2
+       transactions_list--> 
+		partner :		amount :		type :
+		admin			20000			deposit
+		amir			1000			receive
+--------------------------------------------------------------------------
+username--> maman
+       password : 123
+       phone_number : 09123456789
+       ID : 1578131511
+       balance : 37000
+       transactions_count : 3
+       transactions_list--> 
+		partner :		amount :		type :
+		admin			30000			deposit
+		amir			5000			receive
+		shima			2000			receive
+--------------------------------------------------------------------------
+username--> shima
+       password : 123
+       phone_number : 09123456789
+       ID : 1578131523
+       balance : 38000
+       transactions_count : 2
+       transactions_list--> 
+		partner :		amount :		type :
+		admin			40000			deposit
+		maman			2000			send
+--------------------------------------------------------------------------

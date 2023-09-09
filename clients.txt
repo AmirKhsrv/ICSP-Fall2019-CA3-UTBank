@@ -1,0 +1,41 @@
+username--> amir
+       password : 12345
+       phone_number : 09123456789
+       ID : 1578323840
+       balance : 150000
+       transactions_count : 3
+       transactions_list--> 
+		partner :		amount :		type :
+		admin			90000			deposit
+		admin			30000			deposit
+		hasan			30000			receive
+--------------------------------------------------------------------------
+username--> soroosh
+       password : 12345
+       phone_number : 0932574623
+       ID : 1578323921
+       balance : 0
+       transactions_count : 0
+       transactions_list--> 
+		partner :		amount :		type :
+--------------------------------------------------------------------------
+username--> aidin
+       password : 12345
+       phone_number : 028232675346
+       ID : 1578323942
+       balance : 0
+       transactions_count : 0
+       transactions_list--> 
+		partner :		amount :		type :
+--------------------------------------------------------------------------
+username--> hasan
+       password : 123
+       phone_number : 0967834521
+       ID : 1578334473
+       balance : 0
+       transactions_count : 2
+       transactions_list--> 
+		partner :		amount :		type :
+		admin			30000			deposit
+		amir			30000			send
+--------------------------------------------------------------------------
